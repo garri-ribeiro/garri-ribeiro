@@ -1,5 +1,4 @@
-<h1 align="center">Hello there , I'm Garri ( Gabriel Ribeiro ) <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" alt="octocat" width="30" height="30" /></h1>
-<h3 align="center">I am a vibrant young man whose passion is technology and efficiency, with emphasis on time optmization and problem solving.</h3>
+<h1>Hello there , I'm Garri ( Gabriel Ribeiro ) <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" alt="octocat" width="30" height="30" /></h1>
 
 - 🔭 I’m currently working on [@QuintoAndar](https://carreiras.quintoandar.com.br/)
 
